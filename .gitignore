@@ -3,8 +3,14 @@
 .RData
 .Ruserdata
 
-.xlsx
-.csv
+*.twbr
+*.twb
+*.twbx
+*.xlsx
+*.csv
+*.xls
+*.dta
+*.rds
 
 *Data
 *Dataout
